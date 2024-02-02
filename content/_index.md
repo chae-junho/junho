@@ -86,76 +86,90 @@ sections:
     design:
       columns: '2'
   - block: accomplishments
-  content:
-    title: 'Accomplish&shy;ments'
-    date_format: Jan 2006
-    items:
+    content:
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      title: 'Accomplish&shy;ments'
+      subtitle:
+      # Date format: https://docs.hugoblox.com/customization/#date-format
+      date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `item` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
       - date_start: '2024-01-01'
+        date_end: ''
         description: Awarded for outstanding achievements and leadership.
-        title: Global Leader Scholarship, Korea Univ.
+        icon: ''
         organization: Korea University
         organization_url: ''
-        icon: ''
+        title: Global Leader Scholarship
         certificate_url: ''
         url: ''
-
+        
       - date_start: '2023-10-01'
+        date_end: ''
         description: Awarded for excellence as a Teaching Assistant in the ICT Talent Development Program.
-        title: Teaching Assistant A (ICT Talent Development Program) Scholarship, Korea Univ.
+        icon: ''
         organization: Korea University
         organization_url: ''
-        icon: ''
+        title: Teaching Assistant A (ICT Talent Development Program) Scholarship
         certificate_url: ''
         url: ''
-
+        
       - date_start: '2023-09-01'
+        date_end: ''
         description: Recognized for achievements in the field of natural science and engineering.
-        title: Natural Science and Engineering Scholarship, Korea Univ.
+        icon: ''
         organization: Korea University
         organization_url: ''
-        icon: ''
+        title: Natural Science and Engineering Scholarship
         certificate_url: ''
         url: ''
-
+        
       - date_start: '2022-12-01'
+        date_end: ''
         description: Awarded for inspirational achievements in China.
-        title: National Inspirational Scholarship, China
+        icon: ''
         organization: ''
         organization_url: ''
-        icon: ''
+        title: National Inspirational Scholarship
         certificate_url: ''
         url: ''
-
+        
       - date_start: '2022-07-01'
+        date_end: ''
         description: Recognizes outstanding academic performance, awarded by Samsung Electronics.
-        title: Samsung Electronic Scholarship, Samsung Electronics China
-        organization: Samsung Electronics
-        organization_url: ''
         icon: ''
+        organization: Samsung Electronics China
+        organization_url: ''
+        title: Samsung Electronic Scholarship
         certificate_url: ''
         url: ''
-
+        
       - date_start: '2021-06-01'
+        date_end: ''
         description: Second consecutive award from Samsung Electronics for academic excellence.
-        title: Samsung Electronic Scholarship, Samsung Electronics China
-        organization: Samsung Electronics
-        organization_url: ''
         icon: ''
+        organization: Samsung Electronics China
+        organization_url: ''
+        title: Samsung Electronic Scholarship
         certificate_url: ''
         url: ''
-
+        
       - date_start: '2019-09-01'
         date_end: '2023-06-30'
         description: Awarded for consistent academic excellence throughout the university period.
-        title: Excellent Student Scholarship, Yanbian Univ.
+        icon: ''
         organization: Yanbian University
         organization_url: ''
-        icon: ''
+        title: Excellent Student Scholarship
         certificate_url: ''
         url: ''
-  design:
-    columns: '2'
 
+    design:
+      columns: '2'
   - block: collection
     id: posts
     content:
