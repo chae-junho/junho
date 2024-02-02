@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Junhao Cai(蔡俊豪, Junho Chae)
+title: Junhao Cai(蔡俊豪, 채준호)
 
 # Name pronunciation (optional)
 # name_pronunciation: Chien Shiung Wu
