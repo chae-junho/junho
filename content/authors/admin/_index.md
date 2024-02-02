@@ -36,15 +36,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    # - course: PhD in Artificial Intelligence
+    #   institution: Stanford University
+    #   year: 2012
+    - course: MSc in Computer Science and Engineering
+      institution:  Korea University (QS ranking 2023: 74, Korea) [GPA: 95.8/100]
+      year: 2023.09-Present
+    - course: B.Eng. in Computer Science and Technology
+      institution:  Yanbian University (211 Project Univ., China) [GPA: 90.29/100, Top (5%)]
+      year: 2019.09-2023.06
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Junhao Cai, also known as Junho Chae, is immersed in research at Korea University's RAIN Lab, concentrating on blending artificial intelligence (AI) with communication technologies.  Beyond his scholarly endeavors, Cai harbors a quiet enthusiasm for music and sports, with a focus on piano and badminton.  His proficiency in these areas has been recognized through national accolades and distinctions as a special student.  Cai's academic journey is marked by consistent achievement, receiving commendation through awards like the Samsung Scholarships and the Global Leader Scholarship, reflecting his dedication to both his studies and personal interests.
 {style="text-align: justify;"}
