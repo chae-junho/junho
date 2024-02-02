@@ -40,10 +40,10 @@ education:
     #   institution: Stanford University
     #   year: 2012
     - course: MSc in Computer Science and Engineering
-      institution:  Korea University (QS ranking 2023: 74, S.Korea) [GPA: 95.8/100]
+      institution:  Korea University [QS ranking:74, S.Korea]
       year: 2023.09-Present
-    - course: B.Eng. in Computer Science and Technology
-      institution:  Yanbian University (211 Project Univ., China) [GPA: 90.29/100, Top (5%)]
+    - course: B.Eng. in Computer Science and Technology [211 Project Univ. China]
+      institution:  Yanbian University
       year: 2019.09-2023.06
 
 # Skills
