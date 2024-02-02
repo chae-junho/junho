@@ -56,7 +56,7 @@ sections:
     date_format: Jan 2006
     items:
       - title: Researcher
-        company: ERC [Cognitive Enhancement Metacommunication Research Center]
+        company: ERC (Cognitive Enhancement Metacommunication Research Center)
         company_url: ''
         company_logo: ''
         location: Seoul, Korea
@@ -84,9 +84,9 @@ sections:
         date_end: '2020-06-30'
         description: |2-
             Responsible for the implementation of various modules, utilizing technologies such as Java, Spring Framework, and MySQL.
-
     design:
       columns: '2'
+
 
 
   - block: accomplishments
