@@ -51,18 +51,25 @@ sections:
   #   design:
   #     columns: '1'
   - block: experience
-  content:
-    title: Experience
-    date_format: Jan 2006
-    items:
+    content:
+      title: Experience
+      # Date format for experience
+      #   Refer to https://docs.hugoblox.com/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
       - title: Researcher
-        company: ERC [Cognitive Enhancement Metacommunication Research Center]
+        company: ERC (Cognitive Enhancement Metacommunication Research Center)
         company_url: ''
         company_logo: ''
         location: Seoul, Korea
         date_start: '2023-09-01'
         date_end: ''
-        description: 
+        description: |2-
             Focused on integrating AI technology with communication systems to achieve high efficiency and low latency in AI tasks. Conducted research on the fusion of advanced AI technologies with communication networks. Developed solutions for enhancing the efficiency of AI tasks in real-time communication environments. Worked on minimizing latency in AI-driven communication processes. Successfully implemented AI models that significantly improved the speed and responsiveness of communication systems in AI tasks.
 
       - title: Chairman
@@ -72,7 +79,7 @@ sections:
         location: Jilin, China
         date_start: '2021-01-01'
         date_end: '2023-12-31'
-        description: 
+        description: |2-
             Spearheaded comprehensive business project from inception to execution. Meticulously drafted contracts and delivered persuasive business presentations. Oversaw development and launch of WeChat mini-programs, managing technical and marketing strategies.
 
       - title: Java Engineer Intern
@@ -82,13 +89,12 @@ sections:
         location: Jilin, China
         date_start: '2020-01-01'
         date_end: '2020-06-30'
-        description: 
+        description: |2-
             Responsible for the implementation of various modules, utilizing technologies such as Java, Spring Framework, and MySQL.
+
     design:
       columns: '2'
-
-
-
+      
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
