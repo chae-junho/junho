@@ -56,13 +56,13 @@ sections:
     date_format: Jan 2006
     items:
       - title: Researcher
-        company: ERC (Cognitive Enhancement Metacommunication Research Center)
+        company: ERC [Cognitive Enhancement Metacommunication Research Center]
         company_url: ''
         company_logo: ''
         location: Seoul, Korea
         date_start: '2023-09-01'
         date_end: ''
-        description: |2-
+        description: 
             Focused on integrating AI technology with communication systems to achieve high efficiency and low latency in AI tasks. Conducted research on the fusion of advanced AI technologies with communication networks. Developed solutions for enhancing the efficiency of AI tasks in real-time communication environments. Worked on minimizing latency in AI-driven communication processes. Successfully implemented AI models that significantly improved the speed and responsiveness of communication systems in AI tasks.
 
       - title: Chairman
@@ -72,7 +72,7 @@ sections:
         location: Jilin, China
         date_start: '2021-01-01'
         date_end: '2023-12-31'
-        description: |2-
+        description: 
             Spearheaded comprehensive business project from inception to execution. Meticulously drafted contracts and delivered persuasive business presentations. Oversaw development and launch of WeChat mini-programs, managing technical and marketing strategies.
 
       - title: Java Engineer Intern
@@ -82,7 +82,7 @@ sections:
         location: Jilin, China
         date_start: '2020-01-01'
         date_end: '2020-06-30'
-        description: |2-
+        description: 
             Responsible for the implementation of various modules, utilizing technologies such as Java, Spring Framework, and MySQL.
     design:
       columns: '2'
