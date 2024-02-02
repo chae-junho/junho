@@ -56,7 +56,7 @@ sections:
     date_format: Jan 2006
     items:
       - title: Researcher
-        company: ERC (Cognitive Enhancement Metacommunication Research Center)
+        company: ERC [Cognitive Enhancement Metacommunication Research Center]
         company_url: ''
         company_logo: ''
         location: Seoul, Korea
