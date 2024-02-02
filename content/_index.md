@@ -72,7 +72,7 @@ sections:
         location: Jilin, China
         date_start: '2021-01-01'
         date_end: '2023-12-31'
-        description: |2-
+        description: 
             Spearheaded comprehensive business project from inception to execution. Drafted contracts and delivered persuasive business presentations. Oversaw the development and launch of WeChat mini-programs, managing technical and marketing strategies.
 
       - title: Java Engineer Intern
@@ -82,7 +82,7 @@ sections:
         location: Jilin, China
         date_start: '2020-01-01'
         date_end: '2020-06-30'
-        description: |2-
+        description: 
             Responsible for the implementation of various modules, utilizing Java, Spring Framework, and MySQL.
 
     design:
